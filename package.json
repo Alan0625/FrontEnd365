@@ -1,0 +1,21 @@
+{
+  "name": "frontend365",
+  "version": "1.0.0",
+  "description": "frontend365",
+  "main": "index.js",
+  "author": "alan0625",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan0625/FrontEnd365.git"
+  },
+  "keywords": ["frontend"],
+  "bugs": {
+    "url": "https://github.com/Alan0625/FrontEnd365/issues"
+  },
+  "homepage": "https://github.com/Alan0625/FrontEnd365#readme"
+}
